@@ -19,8 +19,11 @@ Usage
 1. Clone the repository:
   git clone https://github.com/your-username/qr-code-generator.git
   cd qr-code-generator
+
 2.Install dependencies:
   npm install
+
+  
 3.Run the script:
   npm start
 
